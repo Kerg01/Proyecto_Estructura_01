@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Spotify_Estructuras/Spotify_Estructuras.vcxproj" />
+  <Project Path="Spotify_Estructuras/Spotify_Estructuras.vcxproj" Id="15e6d6f5-9502-4474-8814-242ee962e565" />
 </Solution>
