@@ -1,69 +1,51 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
+# Archivos de compilación
 *.obj
-
-# Precompiled Headers
-*.gch
 *.pch
-
-# Linker files
+*.idb
 *.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-*.so.*
-
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
 *.exe
-*.out
-*.app
-
-# Build directories
-build/
-Build/
-build-*/
-
-# CMake generated files
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-install_manifest.txt
-compile_commands.json
-
-# Temporary files
-*.tmp
+*.exp
 *.log
-*.bak
-*.swp
 
-# vcpkg
-vcpkg_installed/
+# Carpetas de Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+ipch/
+out/
+bin/
+build/
+[Bb]uild*/
 
-# debug information files
-*.dwo
+# Archivos temporales y de usuario
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.cache
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
 
-# test output & cache
-Testing/
-.cache/
+# Archivos de configuración locales
+*.ncb
+*.aps
+*.res
+*.tlog
+
+# Archivos de paquetes y dependencias
+*.nuget/
+packages/
+*.cachefile
+*.tmp
+
+# Archivos generados automáticamente
+*.manifest
+*.db
+*.opendb
+
+# Otros
+Thumbs.db
+desktop.ini
