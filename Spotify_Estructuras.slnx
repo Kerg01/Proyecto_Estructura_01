@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Spotify_Estructuras/Spotify_Estructuras.vcxproj" />
+</Solution>
