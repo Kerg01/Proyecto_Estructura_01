@@ -139,7 +139,12 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArbolBST.cpp" />
     <ClCompile Include="Spotify_Estructuras.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ArbolBST.h" />
+    <ClInclude Include="Cancion.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
